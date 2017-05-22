@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quiz_Android</string>
+    <string name="q1">1. Which is the latest mobile version of android?</string>
+    <string name="q2">2. Android is based on which language.</string>
+    <string name="q3">3. Which company developed android?</string>
+    <string name="q4">4. Which company bought Android ?</string>
+    <string name="q5">5. ADB stands for</string>
+    <string name="q6">6. XML stands for</string>
+    <string name="q7">7. IDE stands for</string>
+    <string name="q8">8. Android supports which features.</string>
+    <string name="q81"> Multitasking</string>
+    <string name="q82"> Bluetooth</string>
+    <string name="q83">Video calling</string>
+    <string name="q84">All of the above</string>
+    <string name="q9">9. Android doesn\'t support which format.</string>
+    <string name="q91">MP4</string>
+    <string name="q92">MPEG</string>
+    <string name="q93">AVI</string>
+    <string name="q94">MIDI</string>
+    <string name="q10">10.Android is based on which kernel?</string>
+    <string name="q101">Linux kernel</string>
+    <string name="q102">Windows kernel</string>
+    <string name="q103">Mac kernel</string>
+    <string name="q104">Hybrid kernel</string>
+    <string name="score1">Your Score is</string>
+    <string name="score2">Out of 10</string>
+    <string name="farmercode">Enter Farmer Code</string>
+    <string name="farmername">Farmer Name</string>
+    <string name="milk">MILK</string>
+    <string name="getweight">GET WEIGHT</string>
+    <string name="text">GET ANALYZER DATA</string>
+    <string name="weight">Weight(Lts.)</string>
+    <string name="fat">FAT(%)</string>
+    <string name="snf">SNF(%)</string>
+    <string name="hint">0.0</string>
+    <string name="rate">Rate</string>
+    <string name="amount">Amount</string>
+    <string name="save">SAVE</string>
+    <string name="PRINT">PRINT</string>
+    <string name="NEWRECORD">NEW RECORD</string>
+    <string name="clr">CLR</string>
+    <string-array name="Milk">
+        <item>COW</item>
+        <item>BUFFALO</item>
+        <item>MIXED</item>
+    </string-array>
+
+
+</resources>
